@@ -22,7 +22,7 @@ Used tools:
 
 
 
-The number of incidents handled by CERT Polska has increased from ~1,400 in 2015 to over103,000 in 2024. The dominant category is vulnerable services, which account for almost 95%of all incidents handled. Other categories of incidents, although less frequent, also requireattention and monitoring because they pose a real threat. Based on conservative andpolynomial forecast, the total incident volume may reach 257,000-457,000 by 2029. Thisindicates escalating treat levels and increasing operational load for incident response teams.
+The number of incidents handled by CERT Polska has increased from ~1,400 in 2015 to over103,000 in 2024. The dominant category is vulnerable services, which account for almost 95% of all incidents handled. Other categories of incidents, although less frequent, also requireattention and monitoring because they pose a real threat. Based on conservative andpolynomial forecast, the total incident volume may reach 257,000-457,000 by 2029. This indicates escalating treat levels and increasing operational load for incident response teams.
 
 
 <br>
