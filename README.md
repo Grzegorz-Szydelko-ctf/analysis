@@ -32,7 +32,7 @@ The number of incidents handled by CERT Polska has increased from ~1,400 in 2015
 
 
 
-!\[numer of incidents with forecast](/charts/number-of-incidents-with-forecast.png)
+!\[numer of incidents with forecast](charts/number-of-incidents-with-forecast.png)
 
 
 
