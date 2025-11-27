@@ -44,5 +44,5 @@ The number of incidents handled by CERT Polska has increased from ~1,400 in 2015
 
 
 
-Read full report: https://github.com/Grzegorz-Szydelko-ctf/analysis/blob/main/cert-incidents-report.pdf
+Read full report: [https://github.com/Grzegorz-Szydelko-ctf/analysis/blob/main/cert-incidents-report.pdf](https://github.com/Grzegorz-Szydelko-ctf/analysis/blob/main/cert-polska-incident-analysis/cert-incidents-report.pdf)
 
