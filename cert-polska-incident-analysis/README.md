@@ -32,15 +32,15 @@ The number of incidents handled by CERT Polska has increased from ~1,400 in 2015
 
 
 
-![distribution-of-incidents](/charts/distribution-of-incidents.png)
+![distribution-of-incidents](charts/distribution-of-incidents.png)
 
 
 
-![trend-of-fraudulent-activity](/charts/trend-of-fraudulent-activity.png)
+![trend-of-fraudulent-activity](charts/trend-of-fraudulent-activity.png)
 
 
 
-![trends-of-other-categories](/charts/trends-of-other-categories.png)
+![trends-of-other-categories](charts/trends-of-other-categories.png)
 
 
 
